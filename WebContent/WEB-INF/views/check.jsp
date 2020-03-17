@@ -35,6 +35,7 @@ Find it out with FLAMES
   </form>
  </div>
 
+<!-- <div class="side-image">
 </div> -->
  </main>
 
